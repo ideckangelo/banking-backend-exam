@@ -1,0 +1,11 @@
+# ignore envs
+**/myvenv
+.env
+
+# ignore django files
+__pycache__/
+migrations/
+db.sqlite3
+
+# ignore notes
+notes/
